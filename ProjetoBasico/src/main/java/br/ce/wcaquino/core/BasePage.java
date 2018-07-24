@@ -13,8 +13,6 @@ import org.openqa.selenium.support.ui.Select;
 
 public class BasePage {
 	
-	//Teste
-
 /********* TextField e TextArea ************/
 	
 	public void escrever(By by, String texto){
