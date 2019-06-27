@@ -1,4 +1,4 @@
 # CursoSelenium
 Curso de Selenium WebDriver com JUnit
 
-Classes de exmplo do Curso Selenium
+Classes de exemplo do de Tecnicas do Selenium
